@@ -1,0 +1,36 @@
+.orange{
+        color: orange;
+        }
+a{
+        color: green;
+        font-style: oblique;
+        }
+html{
+        font-family: "Berlin sans fb";
+        font-size:medium;
+        margin-left: 400px;
+        margin-right:auto;
+        font-weight:lighter;
+        text-transform:capitalize;
+        text-align:left;
+        
+}
+h1{
+        font-family: "Impact";
+        margin: 0 auto;
+}
+#liste{
+        display: block;
+        font-family: "Calibri", sans-serif;
+        color: red;
+}
+head{
+        font-family:"Impact";
+}
+body{
+        background-image:url(Sans-titre-2.jpg);
+        background-repeat:no-repeat;
+        background-position:right top;
+        
+}
+
